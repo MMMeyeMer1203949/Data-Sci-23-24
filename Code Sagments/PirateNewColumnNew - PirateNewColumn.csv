@@ -1,0 +1,1001 @@
+id,favorite.sea
+0,Gulf of Mexico
+1,Caspian Sea
+2,Red Sea
+3,Chilean Sea
+4,Bering Sea
+5,Labrador Sea
+6,Black Sea
+7,Baltic Sea
+8,Norwegian Sea
+9,Labrador Sea
+10,Ryukyu Sea
+11,Ryukyu Sea
+12,Caribbean Sea
+13,Southern Ocean
+14,Labrador Sea
+15,Aegean Sea
+16,Bering Sea
+17,Arabian Sea
+18,Tyrrhenian Sea
+19,Java Sea
+20,Andaman Sea
+21,Greenland Sea
+22,Southern Ocean
+23,Baltic Sea
+24,Sulu Sea
+25,Bering Sea
+26,Norwegian Sea
+27,Tasman Sea
+28,Celebes Sea
+29,Mediterranean Sea
+30,Gulf of Mexico
+31,South China Sea
+32,Gulf of Mexico
+33,Bering Sea
+34,Caribbean Sea
+35,Bering Sea
+36,Adriatic Sea
+37,Norwegian Sea
+38,Ryukyu Sea
+39,Baltic Sea
+40,Celebes Sea
+41,Andaman Sea
+42,Red Sea
+43,Baltic Sea
+44,South China Sea
+45,Labrador Sea
+46,Greenland Sea
+47,Barents Sea
+48,Ligurian Sea
+49,Tyrrhenian Sea
+50,Southern Ocean
+51,Java Sea
+52,Yellow Sea
+53,Adriatic Sea
+54,Barents Sea
+55,Ryukyu Sea
+56,Tyrrhenian Sea
+57,Ligurian Sea
+58,Adriatic Sea
+59,Sulu Sea
+60,Sulu Sea
+61,Baltic Sea
+62,Tasman Sea
+63,Adriatic Sea
+64,Bering Sea
+65,Tyrrhenian Sea
+66,Sea of Japan
+67,Ryukyu Sea
+68,Gulf of St Lawrence
+69,Ryukyu Sea
+70,Yellow Sea
+71,Baltic Sea
+72,Baltic Sea
+73,Celebes Sea
+74,Andaman Sea
+75,Baltic Sea
+76,Southern Ocean
+77,Philippine Sea
+78,Caribbean Sea
+79,Caribbean Sea
+80,Caribbean Sea
+81,Mediterranean Sea
+82,Black Sea
+83,Tyrrhenian Sea
+84,Philippine Sea
+85,Adriatic Sea
+86,Yellow Sea
+87,Gulf of Alaska
+88,Mediterranean Sea
+89,Coral Sea
+90,Greenland Sea
+91,Celebes Sea
+92,Bering Sea
+93,Arabian Sea
+94,South China Sea
+95,Arabian Sea
+96,Red Sea
+97,Gulf of Mexico
+98,Aegean Sea
+99,Java Sea
+100,South China Sea
+101,East China Sea
+102,Coral Sea
+103,Black Sea
+104,South China Sea
+105,Southern Ocean
+106,Barents Sea
+107,Sea of Japan
+108,Norwegian Sea
+109,Ligurian Sea
+110,Banda Sea
+111,Chilean Sea
+112,Sulu Sea
+113,Gulf of Mexico
+114,Yellow Sea
+115,East China Sea
+116,Philippine Sea
+117,East China Sea
+118,Black Sea
+119,Caribbean Sea
+120,Red Sea
+121,Yellow Sea
+122,Caspian Sea
+123,Black Sea
+124,Adriatic Sea
+125,Caspian Sea
+126,Adriatic Sea
+127,Adriatic Sea
+128,Yellow Sea
+129,Sulu Sea
+130,Andaman Sea
+131,Caspian Sea
+132,Sulu Sea
+133,Greenland Sea
+134,Baltic Sea
+135,Sea of Japan
+136,Java Sea
+137,Gulf of Alaska
+138,Red Sea
+139,Celebes Sea
+140,Mediterranean Sea
+141,Tyrrhenian Sea
+142,Coral Sea
+143,Mediterranean Sea
+144,Ryukyu Sea
+145,Coral Sea
+146,Adriatic Sea
+147,Bering Sea
+148,Bering Sea
+149,Celebes Sea
+150,Chilean Sea
+151,Banda Sea
+152,Southern Ocean
+153,Caspian Sea
+154,Norwegian Sea
+155,East China Sea
+156,Baltic Sea
+157,Java Sea
+158,Yellow Sea
+159,Celebes Sea
+160,Barents Sea
+161,Gulf of St Lawrence
+162,Andaman Sea
+163,Mediterranean Sea
+164,Ligurian Sea
+165,Chilean Sea
+166,Aegean Sea
+167,Ryukyu Sea
+168,Norwegian Sea
+169,Labrador Sea
+170,Mediterranean Sea
+171,Barents Sea
+172,Arabian Sea
+173,Tyrrhenian Sea
+174,Banda Sea
+175,Black Sea
+176,Mediterranean Sea
+177,East China Sea
+178,Bering Sea
+179,Red Sea
+180,Red Sea
+181,Caspian Sea
+182,Caspian Sea
+183,Greenland Sea
+184,Java Sea
+185,Aegean Sea
+186,Caspian Sea
+187,Caribbean Sea
+188,Ryukyu Sea
+189,Tyrrhenian Sea
+190,Sulu Sea
+191,Norwegian Sea
+192,Sulu Sea
+193,Arabian Sea
+194,Sulu Sea
+195,Tyrrhenian Sea
+196,Coral Sea
+197,Banda Sea
+198,Ryukyu Sea
+199,Andaman Sea
+200,Baltic Sea
+201,Tyrrhenian Sea
+202,Caspian Sea
+203,Ryukyu Sea
+204,Gulf of Mexico
+205,Baltic Sea
+206,Sulu Sea
+207,Ligurian Sea
+208,Yellow Sea
+209,Ligurian Sea
+210,Southern Ocean
+211,East China Sea
+212,Caspian Sea
+213,East China Sea
+214,Norwegian Sea
+215,Caspian Sea
+216,Coral Sea
+217,Gulf of St Lawrence
+218,Java Sea
+219,Ryukyu Sea
+220,South China Sea
+221,Aegean Sea
+222,Bering Sea
+223,Arabian Sea
+224,Java Sea
+225,Sea of Japan
+226,Arabian Sea
+227,Gulf of Mexico
+228,Coral Sea
+229,Barents Sea
+230,Aegean Sea
+231,Celebes Sea
+232,Barents Sea
+233,Caspian Sea
+234,Barents Sea
+235,Gulf of Alaska
+236,Barents Sea
+237,Gulf of Mexico
+238,Bering Sea
+239,Greenland Sea
+240,Gulf of St Lawrence
+241,Caspian Sea
+242,Chilean Sea
+243,East China Sea
+244,Arabian Sea
+245,Sea of Japan
+246,Labrador Sea
+247,Philippine Sea
+248,Ligurian Sea
+249,Gulf of Alaska
+250,Adriatic Sea
+251,Celebes Sea
+252,Norwegian Sea
+253,Ryukyu Sea
+254,Ryukyu Sea
+255,Philippine Sea
+256,Southern Ocean
+257,Bering Sea
+258,Philippine Sea
+259,Yellow Sea
+260,Tasman Sea
+261,Philippine Sea
+262,Arabian Sea
+263,Southern Ocean
+264,Norwegian Sea
+265,Labrador Sea
+266,Gulf of St Lawrence
+267,Norwegian Sea
+268,Black Sea
+269,Barents Sea
+270,Tasman Sea
+271,Red Sea
+272,Ligurian Sea
+273,Ligurian Sea
+274,Sulu Sea
+275,Philippine Sea
+276,Chilean Sea
+277,Norwegian Sea
+278,Adriatic Sea
+279,Tyrrhenian Sea
+280,Norwegian Sea
+281,Banda Sea
+282,Andaman Sea
+283,Mediterranean Sea
+284,Labrador Sea
+285,Philippine Sea
+286,Baltic Sea
+287,Aegean Sea
+288,East China Sea
+289,Gulf of Alaska
+290,Aegean Sea
+291,Banda Sea
+292,Gulf of St Lawrence
+293,Philippine Sea
+294,Gulf of St Lawrence
+295,Sulu Sea
+296,Banda Sea
+297,Mediterranean Sea
+298,Java Sea
+299,Caribbean Sea
+300,Bering Sea
+301,Sea of Japan
+302,Caribbean Sea
+303,Coral Sea
+304,Barents Sea
+305,Bering Sea
+306,Philippine Sea
+307,Coral Sea
+308,Sulu Sea
+309,Caspian Sea
+310,Adriatic Sea
+311,Chilean Sea
+312,Adriatic Sea
+313,Sea of Japan
+314,Bering Sea
+315,Philippine Sea
+316,Southern Ocean
+317,Tasman Sea
+318,Sulu Sea
+319,Aegean Sea
+320,Tasman Sea
+321,Mediterranean Sea
+322,East China Sea
+323,Philippine Sea
+324,Andaman Sea
+325,Black Sea
+326,Sulu Sea
+327,Sulu Sea
+328,Yellow Sea
+329,Java Sea
+330,Red Sea
+331,Coral Sea
+332,Java Sea
+333,Labrador Sea
+334,Celebes Sea
+335,Celebes Sea
+336,Aegean Sea
+337,Chilean Sea
+338,Coral Sea
+339,Celebes Sea
+340,Gulf of St Lawrence
+341,Mediterranean Sea
+342,Yellow Sea
+343,Celebes Sea
+344,Greenland Sea
+345,Aegean Sea
+346,Yellow Sea
+347,Barents Sea
+348,Chilean Sea
+349,Bering Sea
+350,Celebes Sea
+351,Tyrrhenian Sea
+352,Greenland Sea
+353,Andaman Sea
+354,Celebes Sea
+355,Gulf of Alaska
+356,Aegean Sea
+357,Mediterranean Sea
+358,Banda Sea
+359,Baltic Sea
+360,Labrador Sea
+361,Aegean Sea
+362,Caribbean Sea
+363,Aegean Sea
+364,Banda Sea
+365,Baltic Sea
+366,Ryukyu Sea
+367,East China Sea
+368,South China Sea
+369,Java Sea
+370,Red Sea
+371,Celebes Sea
+372,Andaman Sea
+373,Philippine Sea
+374,East China Sea
+375,Southern Ocean
+376,Gulf of St Lawrence
+377,Norwegian Sea
+378,Black Sea
+379,Ligurian Sea
+380,Caribbean Sea
+381,Southern Ocean
+382,Chilean Sea
+383,Aegean Sea
+384,Andaman Sea
+385,Aegean Sea
+386,East China Sea
+387,Labrador Sea
+388,Arabian Sea
+390,Norwegian Sea
+391,Norwegian Sea
+392,Gulf of Alaska
+393,Sea of Japan
+394,Sulu Sea
+395,Andaman Sea
+396,Baltic Sea
+397,Tasman Sea
+398,Tasman Sea
+399,Tyrrhenian Sea
+400,Southern Ocean
+401,South China Sea
+402,Chilean Sea
+403,Mediterranean Sea
+404,Baltic Sea
+405,Ligurian Sea
+406,Adriatic Sea
+407,Banda Sea
+408,Greenland Sea
+409,Yellow Sea
+410,South China Sea
+411,South China Sea
+412,Greenland Sea
+413,Baltic Sea
+414,Banda Sea
+415,Labrador Sea
+416,Norwegian Sea
+417,Norwegian Sea
+418,Sulu Sea
+419,Gulf of Mexico
+420,Tasman Sea
+421,Tyrrhenian Sea
+422,Gulf of Mexico
+423,Mediterranean Sea
+424,Black Sea
+425,Red Sea
+426,Red Sea
+427,Barents Sea
+428,Ryukyu Sea
+429,Sea of Japan
+430,Norwegian Sea
+431,Aegean Sea
+432,Chilean Sea
+433,Southern Ocean
+434,Labrador Sea
+435,Sea of Japan
+436,Gulf of Alaska
+437,Black Sea
+438,Mediterranean Sea
+439,Gulf of Mexico
+440,Caribbean Sea
+441,Gulf of Alaska
+442,Bering Sea
+443,Red Sea
+444,Adriatic Sea
+445,Norwegian Sea
+446,Baltic Sea
+447,Sulu Sea
+448,Banda Sea
+449,Aegean Sea
+450,Tyrrhenian Sea
+451,Mediterranean Sea
+452,Arabian Sea
+453,Ligurian Sea
+454,Baltic Sea
+455,Celebes Sea
+456,Adriatic Sea
+457,Gulf of Mexico
+458,Aegean Sea
+459,Norwegian Sea
+460,East China Sea
+461,Chilean Sea
+462,Norwegian Sea
+463,East China Sea
+464,Caribbean Sea
+465,Gulf of Mexico
+466,Ryukyu Sea
+467,Greenland Sea
+468,Norwegian Sea
+469,Aegean Sea
+470,Red Sea
+471,Chilean Sea
+472,Java Sea
+473,Andaman Sea
+474,Labrador Sea
+475,Southern Ocean
+476,Baltic Sea
+477,Ligurian Sea
+478,Sulu Sea
+479,Southern Ocean
+480,Sulu Sea
+481,Labrador Sea
+482,Ligurian Sea
+483,Mediterranean Sea
+484,East China Sea
+485,Yellow Sea
+486,Barents Sea
+487,Gulf of St Lawrence
+488,Arabian Sea
+489,East China Sea
+490,Sulu Sea
+491,Gulf of St Lawrence
+492,Mediterranean Sea
+493,Ryukyu Sea
+494,Baltic Sea
+495,Yellow Sea
+496,Southern Ocean
+497,Sulu Sea
+498,Banda Sea
+499,Sea of Japan
+500,Java Sea
+501,Andaman Sea
+502,Baltic Sea
+503,Norwegian Sea
+504,Caspian Sea
+505,Baltic Sea
+506,South China Sea
+507,Java Sea
+508,Gulf of St Lawrence
+509,Labrador Sea
+510,Sea of Japan
+511,Philippine Sea
+512,Gulf of Alaska
+513,Adriatic Sea
+514,Black Sea
+515,Coral Sea
+516,Norwegian Sea
+517,Black Sea
+518,Java Sea
+519,Chilean Sea
+520,Arabian Sea
+521,Banda Sea
+522,Celebes Sea
+523,Ligurian Sea
+524,Greenland Sea
+525,Celebes Sea
+526,Sea of Japan
+527,Yellow Sea
+528,Greenland Sea
+529,Yellow Sea
+530,Mediterranean Sea
+531,Bering Sea
+532,East China Sea
+533,Tasman Sea
+534,Tasman Sea
+535,Greenland Sea
+536,Barents Sea
+537,Norwegian Sea
+538,Philippine Sea
+539,Red Sea
+540,Adriatic Sea
+541,Gulf of Alaska
+542,East China Sea
+543,Ligurian Sea
+544,Bering Sea
+545,Gulf of Mexico
+546,Arabian Sea
+547,Black Sea
+548,Sea of Japan
+549,Norwegian Sea
+550,Bering Sea
+551,Sulu Sea
+552,Yellow Sea
+553,Chilean Sea
+554,Tyrrhenian Sea
+555,Sulu Sea
+556,Philippine Sea
+557,Java Sea
+558,Chilean Sea
+559,Andaman Sea
+560,Philippine Sea
+561,Labrador Sea
+562,Gulf of Mexico
+563,Arabian Sea
+564,Chilean Sea
+565,Greenland Sea
+566,Chilean Sea
+567,Tyrrhenian Sea
+568,Bering Sea
+569,Bering Sea
+570,Sulu Sea
+571,East China Sea
+572,Barents Sea
+573,Aegean Sea
+574,Aegean Sea
+575,Sulu Sea
+576,Labrador Sea
+577,Bering Sea
+578,Tasman Sea
+579,Arabian Sea
+580,Mediterranean Sea
+581,Baltic Sea
+582,Norwegian Sea
+583,Greenland Sea
+584,Caribbean Sea
+585,Gulf of Mexico
+586,Tasman Sea
+587,Greenland Sea
+588,Norwegian Sea
+589,Celebes Sea
+590,Gulf of Alaska
+591,Chilean Sea
+592,Ligurian Sea
+593,Ryukyu Sea
+594,Arabian Sea
+595,Tyrrhenian Sea
+596,Celebes Sea
+597,Arabian Sea
+598,Gulf of St Lawrence
+599,Caribbean Sea
+600,Sulu Sea
+601,Mediterranean Sea
+602,Aegean Sea
+603,Tyrrhenian Sea
+604,Southern Ocean
+605,Ligurian Sea
+606,Black Sea
+607,Andaman Sea
+608,Arabian Sea
+609,Gulf of St Lawrence
+610,Sea of Japan
+611,Caspian Sea
+612,Adriatic Sea
+613,Black Sea
+614,Yellow Sea
+615,Bering Sea
+616,Yellow Sea
+617,Ryukyu Sea
+618,Arabian Sea
+619,Philippine Sea
+620,Yellow Sea
+621,Yellow Sea
+622,South China Sea
+623,Baltic Sea
+624,Sea of Japan
+625,Andaman Sea
+626,Bering Sea
+627,Adriatic Sea
+628,Baltic Sea
+629,Caribbean Sea
+630,Philippine Sea
+631,Banda Sea
+632,Arabian Sea
+633,Aegean Sea
+634,Gulf of St Lawrence
+635,East China Sea
+636,South China Sea
+637,Java Sea
+638,Tasman Sea
+639,Aegean Sea
+640,Banda Sea
+641,Andaman Sea
+642,Sea of Japan
+643,East China Sea
+644,Tyrrhenian Sea
+645,Philippine Sea
+646,Ligurian Sea
+647,East China Sea
+648,Aegean Sea
+649,Coral Sea
+650,South China Sea
+651,Banda Sea
+652,Gulf of Mexico
+653,Norwegian Sea
+654,Caribbean Sea
+655,Banda Sea
+656,Arabian Sea
+657,Ryukyu Sea
+658,Ryukyu Sea
+659,Ryukyu Sea
+660,Red Sea
+661,Bering Sea
+662,Labrador Sea
+663,Chilean Sea
+664,Coral Sea
+665,Sea of Japan
+666,Aegean Sea
+667,Tasman Sea
+668,Greenland Sea
+669,Caribbean Sea
+670,Labrador Sea
+671,Caribbean Sea
+672,Sea of Japan
+673,Gulf of Alaska
+674,Baltic Sea
+675,Arabian Sea
+676,Adriatic Sea
+677,Chilean Sea
+678,Banda Sea
+679,Gulf of St Lawrence
+680,Tasman Sea
+681,Yellow Sea
+682,Black Sea
+683,Adriatic Sea
+684,Sulu Sea
+685,Sulu Sea
+686,Baltic Sea
+687,Andaman Sea
+688,Southern Ocean
+689,Caribbean Sea
+690,Tasman Sea
+691,Arabian Sea
+692,Gulf of St Lawrence
+693,Aegean Sea
+694,Greenland Sea
+695,Banda Sea
+696,Coral Sea
+697,Gulf of Mexico
+698,Red Sea
+699,Black Sea
+700,Philippine Sea
+701,Labrador Sea
+702,Caribbean Sea
+703,Arabian Sea
+704,Caribbean Sea
+705,Baltic Sea
+706,Philippine Sea
+707,Gulf of Alaska
+708,Caspian Sea
+709,Tyrrhenian Sea
+710,Labrador Sea
+711,Mediterranean Sea
+712,Philippine Sea
+713,Mediterranean Sea
+714,Bering Sea
+715,Chilean Sea
+716,Chilean Sea
+717,Ryukyu Sea
+718,Labrador Sea
+719,Bering Sea
+720,Chilean Sea
+721,Andaman Sea
+722,Southern Ocean
+723,Coral Sea
+724,Norwegian Sea
+725,Caspian Sea
+726,Adriatic Sea
+727,Barents Sea
+727,Bering Sea
+728,Coral Sea
+729,Gulf of Mexico
+730,Sea of Japan
+731,Mediterranean Sea
+732,Greenland Sea
+733,Gulf of St Lawrence
+734,Tyrrhenian Sea
+735,Labrador Sea
+736,Philippine Sea
+737,Labrador Sea
+738,Celebes Sea
+739,Ligurian Sea
+740,Sulu Sea
+741,Southern Ocean
+742,Java Sea
+743,Tyrrhenian Sea
+744,Aegean Sea
+745,Gulf of Mexico
+746,Gulf of Alaska
+747,Sulu Sea
+748,Chilean Sea
+749,South China Sea
+750,Adriatic Sea
+751,Chilean Sea
+752,Adriatic Sea
+753,Norwegian Sea
+754,Philippine Sea
+755,Java Sea
+756,Caribbean Sea
+757,Southern Ocean
+758,Sea of Japan
+759,Tyrrhenian Sea
+760,Sea of Japan
+761,Southern Ocean
+762,Adriatic Sea
+763,Barents Sea
+764,Tasman Sea
+765,Caspian Sea
+766,Bering Sea
+767,Java Sea
+768,Aegean Sea
+769,South China Sea
+770,Ligurian Sea
+771,Andaman Sea
+772,Southern Ocean
+773,Norwegian Sea
+774,Bering Sea
+775,Norwegian Sea
+776,Aegean Sea
+777,Ligurian Sea
+778,Ryukyu Sea
+779,Andaman Sea
+780,Greenland Sea
+781,Norwegian Sea
+782,Mediterranean Sea
+783,Barents Sea
+784,Mediterranean Sea
+785,Arabian Sea
+786,Aegean Sea
+787,Ryukyu Sea
+788,Yellow Sea
+789,Norwegian Sea
+790,Sea of Japan
+791,Ligurian Sea
+792,Ligurian Sea
+793,Celebes Sea
+794,Chilean Sea
+795,Sea of Japan
+796,East China Sea
+797,Black Sea
+798,Gulf of Alaska
+799,Gulf of Mexico
+800,Gulf of Alaska
+801,Sea of Japan
+802,Labrador Sea
+803,Banda Sea
+804,Java Sea
+805,Sea of Japan
+806,Java Sea
+807,East China Sea
+808,Barents Sea
+809,Philippine Sea
+810,East China Sea
+811,Yellow Sea
+812,Barents Sea
+813,Barents Sea
+814,Philippine Sea
+815,Labrador Sea
+816,South China Sea
+817,South China Sea
+818,Mediterranean Sea
+819,Barents Sea
+820,Chilean Sea
+821,Ryukyu Sea
+822,Philippine Sea
+823,Black Sea
+824,Ryukyu Sea
+825,Labrador Sea
+826,Sulu Sea
+827,Caspian Sea
+828,Labrador Sea
+829,Philippine Sea
+830,Ryukyu Sea
+831,Gulf of Mexico
+832,Labrador Sea
+833,Andaman Sea
+834,East China Sea
+835,Baltic Sea
+836,Mediterranean Sea
+837,Andaman Sea
+838,East China Sea
+839,Aegean Sea
+840,Aegean Sea
+841,Baltic Sea
+842,Barents Sea
+843,Tyrrhenian Sea
+844,Gulf of Alaska
+845,Greenland Sea
+846,Ligurian Sea
+847,Coral Sea
+848,Baltic Sea
+849,Gulf of St Lawrence
+850,Java Sea
+851,Chilean Sea
+852,Adriatic Sea
+853,Coral Sea
+854,Greenland Sea
+855,South China Sea
+856,Chilean Sea
+857,Norwegian Sea
+858,East China Sea
+859,Caribbean Sea
+860,Yellow Sea
+861,Bering Sea
+862,Celebes Sea
+863,Barents Sea
+864,Chilean Sea
+865,Chilean Sea
+866,East China Sea
+867,Andaman Sea
+868,Tasman Sea
+869,Sea of Japan
+870,Caribbean Sea
+871,Sea of Japan
+872,Gulf of Mexico
+873,Gulf of Mexico
+874,Southern Ocean
+875,Black Sea
+876,Arabian Sea
+877,Red Sea
+878,Ligurian Sea
+879,Ryukyu Sea
+880,Sulu Sea
+881,Norwegian Sea
+882,Arabian Sea
+883,Sulu Sea
+884,Caribbean Sea
+885,Caribbean Sea
+886,Labrador Sea
+887,Sea of Japan
+888,Coral Sea
+889,Black Sea
+890,Tasman Sea
+891,Sea of Japan
+892,East China Sea
+893,Red Sea
+894,Ryukyu Sea
+895,Philippine Sea
+896,Banda Sea
+897,Norwegian Sea
+898,Southern Ocean
+899,South China Sea
+900,Aegean Sea
+901,Mediterranean Sea
+902,Celebes Sea
+903,Sulu Sea
+904,Gulf of Alaska
+905,Black Sea
+906,Labrador Sea
+907,Red Sea
+908,Adriatic Sea
+909,Aegean Sea
+910,Sulu Sea
+911,Coral Sea
+912,Tasman Sea
+913,Chilean Sea
+914,Gulf of St Lawrence
+915,Tasman Sea
+916,Mediterranean Sea
+917,Tasman Sea
+918,Yellow Sea
+919,Mediterranean Sea
+920,Arabian Sea
+921,Caspian Sea
+922,Gulf of Mexico
+923,Gulf of Alaska
+924,Gulf of Alaska
+925,Caspian Sea
+926,East China Sea
+927,Labrador Sea
+928,Philippine Sea
+929,Java Sea
+930,Labrador Sea
+931,Southern Ocean
+932,Bering Sea
+933,Black Sea
+934,Adriatic Sea
+935,Sulu Sea
+936,Caribbean Sea
+937,Baltic Sea
+938,Chilean Sea
+939,Arabian Sea
+940,Java Sea
+941,Arabian Sea
+942,Yellow Sea
+943,Black Sea
+944,Gulf of St Lawrence
+945,Andaman Sea
+946,Adriatic Sea
+947,Red Sea
+948,Celebes Sea
+949,Red Sea
+950,Labrador Sea
+951,Yellow Sea
+952,Ligurian Sea
+953,Bering Sea
+954,Adriatic Sea
+955,Mediterranean Sea
+956,Gulf of St Lawrence
+957,Gulf of Mexico
+958,East China Sea
+959,Banda Sea
+960,Red Sea
+961,Andaman Sea
+962,Banda Sea
+963,Philippine Sea
+964,Yellow Sea
+965,South China Sea
+966,Adriatic Sea
+967,Black Sea
+968,Gulf of Alaska
+969,Sea of Japan
+970,Sea of Japan
+971,Java Sea
+972,Gulf of St Lawrence
+973,Adriatic Sea
+974,Celebes Sea
+975,Mediterranean Sea
+976,Yellow Sea
+977,Tasman Sea
+978,Arabian Sea
+979,Sulu Sea
+980,Sea of Japan
+981,Adriatic Sea
+982,Caspian Sea
+983,Tasman Sea
+984,Arabian Sea
+985,Baltic Sea
+986,Banda Sea
+987,Adriatic Sea
+988,Southern Ocean
+989,South China Sea
+990,Adriatic Sea
+991,Caspian Sea
+992,Adriatic Sea
+993,Norwegian Sea
+994,Gulf of Mexico
+995,Barents Sea
+996,Baltic Sea
+997,South China Sea
+998,Celebes Sea
+999,Labrador Sea
